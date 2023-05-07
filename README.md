@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Jimoh Lukman - [Gitthub] (httpps:///github.com/Thyrox02 / [Linkedin] ( https://www.linkedin.com/in/techflavour/)
-
+Jimoh Lukman - [Gitthub] (https:///github.com/Thyrox02 / [Linkedin] ( https://www.linkedin.com/in/techflavour/)
+Bamgbade Adeyinka - [Gitthub] (https:///github.com/Oluwavictor) 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 
